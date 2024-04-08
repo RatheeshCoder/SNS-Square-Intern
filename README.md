@@ -1,1 +1,5 @@
-"# SNS-Square-Intern" 
+<h1 align="center" id="title">SNS Square Intern Task</h1>
+
+
+
+<p align="justify" id="description">Ratheesh has successfully developed a comprehensive web application using the MERN (MongoDB Express.js React.js Node.js) stack. The app features a user-friendly interface with a list of colleges for initial selection leading to detailed department listings under each college. Upon selecting a department users can view short student details and further access full student profiles. The app's standout feature is its robust search functionality allowing users to search for students based on keywords such as skills college year and batch facilitating efficient and targeted information retrieval. Overall the app offers a seamless experience for exploring academic structures student information and search capabilities making it a valuable tool for educational institutions and users alike.</p>
